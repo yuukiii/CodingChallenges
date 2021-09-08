@@ -1,4 +1,4 @@
-# Chick-fil-A Coding Challenge
+# Coding Challenge
 ### Prerequisites
 * Java 8 or later
 
